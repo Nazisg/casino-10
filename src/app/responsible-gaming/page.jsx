@@ -19,37 +19,37 @@ export default function ResponsibleGaming() {
                     <h2 className="text-3xl font-bold text-center mb-8">Tips for Safe Gaming</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 
-                        <div className="rounded-xl border border-[#FFD700] bg-[#300832] p-3 lg:p-6 text-center">
+                        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-3 lg:p-6 text-center">
                             <div className="text-4xl mb-4">💰</div>
                             <h3 className="text-lg font-bold mb-2">Set a Budget</h3>
                             <p className="text-gray-400 text-sm">Only gamble with money you can afford to lose. Never chase losses.</p>
                         </div>
                         
-                        <div className="rounded-xl border border-[#FFD700] bg-[#300832] p-3 lg:p-6 text-center">
+                        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-3 lg:p-6 text-center">
                             <div className="text-4xl mb-4">⏰</div>
                             <h3 className="text-lg font-bold mb-2">Set Time Limits</h3>
                             <p className="text-gray-400 text-sm">Decide how long you'll play before you start and stick to it.</p>
                         </div>
                         
-                        <div className="rounded-xl border border-[#FFD700] bg-[#300832] p-3 lg:p-6 text-center">
+                        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-3 lg:p-6 text-center">
                             <div className="text-4xl mb-4">🚫</div>
                             <h3 className="text-lg font-bold mb-2">Don't Chase Losses</h3>
                             <p className="text-gray-400 text-sm">Accept losses as part of the game. Don't try to win back money.</p>
                         </div>
                         
-                        <div className="rounded-xl border border-[#FFD700] bg-[#300832] p-3 lg:p-6 text-center">
+                        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-3 lg:p-6 text-center">
                             <div className="text-4xl mb-4">🍺</div>
                             <h3 className="text-lg font-bold mb-2">Avoid Alcohol</h3>
                             <p className="text-gray-400 text-sm">Don't gamble when under the influence of alcohol or drugs.</p>
                         </div>
                         
-                        <div className="rounded-xl border border-[#FFD700] bg-[#300832] p-3 lg:p-6 text-center">
+                        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-3 lg:p-6 text-center">
                             <div className="text-4xl mb-4">⚖️</div>
                             <h3 className="text-lg font-bold mb-2">Keep Balance</h3>
                             <p className="text-gray-400 text-sm">Maintain other interests and activities outside of gambling.</p>
                         </div>
                         
-                        <div className="rounded-xl border border-[#FFD700] bg-[#300832] p-3 lg:p-6 text-center">
+                        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-3 lg:p-6 text-center">
                             <div className="text-4xl mb-4">👥</div>
                             <h3 className="text-lg font-bold mb-2">Talk to Someone</h3>
                             <p className="text-gray-400 text-sm">Share your concerns with friends, family, or professional counselors.</p>

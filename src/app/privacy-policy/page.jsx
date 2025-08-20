@@ -14,7 +14,7 @@ export default function PrivacyPolicy() {
                 </p>
 
                 {/* 1. Data Controller */}
-                <div className="bg-green-500/10 border mt-5 border-green-500/30 rounded-xl p-4 lg:p-8">
+                <div className="bg-[#054205] border mt-5 border-[#FFD700] rounded-xl p-4 lg:p-8">
                     <h2 className="lg:text-2xl text-xl font-bold text-white lg:mb-6 mb-3">1. Data Controller Information</h2>
                     <p className="text-white text-sm">
                         Casino (“we,” “our,” or “us”) operates as an independent casino review website. 
@@ -23,7 +23,7 @@ export default function PrivacyPolicy() {
                 </div>
 
                 {/* 2. Information We Collect */}
-                <div className="bg-green-500/10 border mt-5 border-green-500/30 rounded-xl p-4 lg:p-8">
+                <div className="bg-[#054205] border mt-5 border-[#FFD700] rounded-xl p-4 lg:p-8">
                     <h2 className="lg:text-2xl text-xl font-bold text-white lg:mb-6 mb-3">2. Information We Collect</h2>
                     <div className="grid md:grid-cols-2 gap-8">
                         <div>
@@ -48,7 +48,7 @@ export default function PrivacyPolicy() {
                 </div>
 
                 {/* 3. How We Use Your Info */}
-                <div className="bg-green-500/10 border mt-5 border-green-500/30 rounded-xl p-4 lg:p-8">
+                <div className="bg-[#054205] border mt-5 border-[#FFD700] rounded-xl p-4 lg:p-8">
                     <h2 className="lg:text-2xl text-xl font-bold text-white lg:mb-6 mb-3">3. How We Use Your Information</h2>
                     <ul className="space-y-2 text-white text-sm">
                         <li>• Provide and maintain our services</li>
@@ -61,7 +61,7 @@ export default function PrivacyPolicy() {
                 </div>
 
                 {/* 4. Cookies */}
-                <div className="bg-green-500/10 border mt-5 border-green-500/30 rounded-xl p-4 lg:p-8">
+                <div className="bg-[#054205] border mt-5 border-[#FFD700] rounded-xl p-4 lg:p-8">
                     <h2 className="lg:text-2xl text-xl font-bold text-white lg:mb-6 mb-3">4. Cookies & Tracking</h2>
                     <ul className="space-y-2 text-white text-sm">
                         <li>• Essential cookies (security, login, forms)</li>
@@ -72,7 +72,7 @@ export default function PrivacyPolicy() {
                 </div>
 
                 {/* 5. Data Sharing */}
-                <div className="bg-green-500/10 border mt-5 border-green-500/30 rounded-xl p-4 lg:p-8">
+                <div className="bg-[#054205] border mt-5 border-[#FFD700] rounded-xl p-4 lg:p-8">
                     <h2 className="lg:text-2xl text-xl font-bold text-white lg:mb-6 mb-3">5. Data Sharing & Third Parties</h2>
                     <ul className="space-y-2 text-white text-sm">
                         <li>• We do not sell your data</li>
@@ -83,7 +83,7 @@ export default function PrivacyPolicy() {
                 </div>
 
                 {/* 6. Data Security */}
-                <div className="bg-green-500/10 border mt-5 border-green-500/30 rounded-xl p-4 lg:p-8">
+                <div className="bg-[#054205] border mt-5 border-[#FFD700] rounded-xl p-4 lg:p-8">
                     <h2 className="lg:text-2xl text-xl font-bold text-white lg:mb-6 mb-3">6. Data Security</h2>
                     <ul className="space-y-2 text-white text-sm">
                         <li>• SSL/TLS encryption</li>
@@ -94,7 +94,7 @@ export default function PrivacyPolicy() {
                 </div>
 
                 {/* 7. Your Rights */}
-                <div className="bg-green-500/10 border mt-5 border-green-500/30 rounded-xl p-4 lg:p-8">
+                <div className="bg-[#054205] border mt-5 border-[#FFD700] rounded-xl p-4 lg:p-8">
                     <h2 className="lg:text-2xl text-xl font-bold text-white lg:mb-6 mb-3">7. Your Privacy Rights</h2>
                     <ul className="space-y-2 text-white text-sm">
                         <li>• Access and request a copy of your data</li>
@@ -106,7 +106,7 @@ export default function PrivacyPolicy() {
                 </div>
 
                 {/* 8. Data Retention */}
-                <div className="bg-green-500/10 border mt-5 border-green-500/30 rounded-xl p-4 lg:p-8">
+                <div className="bg-[#054205] border mt-5 border-[#FFD700] rounded-xl p-4 lg:p-8">
                     <h2 className="lg:text-2xl text-xl font-bold text-white lg:mb-6 mb-3">8. Data Retention</h2>
                     <ul className="space-y-2 text-white text-sm">
                         <li>• Newsletters: until you unsubscribe</li>
@@ -117,7 +117,7 @@ export default function PrivacyPolicy() {
                 </div>
 
                 {/* 9. International Transfers */}
-                <div className="bg-green-500/10 border mt-5 border-green-500/30 rounded-xl p-4 lg:p-8">
+                <div className="bg-[#054205] border mt-5 border-[#FFD700] rounded-xl p-4 lg:p-8">
                     <h2 className="lg:text-2xl text-xl font-bold text-white lg:mb-6 mb-3">9. International Data Transfers</h2>
                     <ul className="space-y-2 text-white text-sm">
                         <li>• Adequacy decisions (UK/EU compliant)</li>
@@ -127,7 +127,7 @@ export default function PrivacyPolicy() {
                 </div>
 
                 {/* 10. Contact */}
-                <div className="bg-green-500/10 border mt-5 border-green-500/30 rounded-xl p-4 lg:p-8">
+                <div className="bg-[#054205] border mt-5 border-[#FFD700] rounded-xl p-4 lg:p-8">
                     <h2 className="lg:text-2xl text-xl font-bold text-white lg:mb-6 mb-3">10. Contact Information</h2>
                     <ul className="space-y-2 text-white text-sm">
                         <li>Email: <a href="mailto:privacy@Casino.com" className="text-green-400">privacy@Casino.com</a></li>
@@ -137,7 +137,7 @@ export default function PrivacyPolicy() {
                 </div>
 
                 {/* 11. Updates */}
-                <div className="bg-green-500/10 border mt-5 border-green-500/30 rounded-xl p-4 lg:p-8">
+                <div className="bg-[#054205] border mt-5 border-[#FFD700] rounded-xl p-4 lg:p-8">
                     <h2 className="lg:text-2xl text-xl font-bold text-white lg:mb-6 mb-3">11. Updates to This Policy</h2>
                     <p className="text-white text-sm">
                         We may update this Privacy Policy occasionally to reflect changes in laws, services, or practices. 

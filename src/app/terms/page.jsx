@@ -8,14 +8,14 @@ export default function TermsAndConditions() {
         </h2>
 
         {/* Card 1 */}
-        <div className="rounded-xl border border-gray-700 bg-[#300832] p-6 lg:p-8">
+        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-6 lg:p-8">
           <h3 className="text-xl lg:text-2xl font-bold text-white mb-4">Acceptance of Terms</h3>
           <p className="text-gray-200 mb-3">These Terms and Conditions ("Terms") form a binding agreement between you and Top10CasinoUK Casino Limited ("Company", "we", "our", or "us") concerning your access and use of our website and services.</p>
           <p className="text-gray-200">By using our services, you confirm that you have read, understood, and agreed to these Terms. If you do not accept them, you must not access or use our services.</p>
         </div>
 
         {/* Card 2 */}
-        <div className="rounded-xl border border-gray-700 bg-[#300832] p-6 lg:p-8">
+        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-6 lg:p-8">
           <h3 className="text-xl lg:text-2xl font-bold text-white mb-4">Eligibility Requirements</h3>
           <p className="text-gray-200 mb-3">To participate on our platform, you must meet the following criteria:</p>
           <ul className="list-disc list-inside ml-5 mb-3 space-y-1 text-gray-300">
@@ -30,7 +30,7 @@ export default function TermsAndConditions() {
         </div>
 
         {/* Card 3 */}
-        <div className="rounded-xl border border-gray-700 bg-[#300832] p-6 lg:p-8">
+        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-6 lg:p-8">
           <h3 className="text-xl lg:text-2xl font-bold text-white mb-4">Account Setup</h3>
           <p className="text-gray-200 mb-2 font-semibold">Registration Guidelines</p>
           <ul className="list-disc list-inside ml-5 mb-3 space-y-1 text-gray-300">
@@ -49,7 +49,7 @@ export default function TermsAndConditions() {
         </div>
 
         {/* Card 4 */}
-        <div className="rounded-xl border border-gray-700 bg-[#300832] p-6 lg:p-8">
+        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-6 lg:p-8">
           <h3 className="text-xl lg:text-2xl font-bold text-white mb-4">Deposits & Withdrawals</h3>
           <p className="text-gray-200 mb-2 font-semibold">Deposits:</p>
           <ul className="list-disc list-inside ml-5 mb-3 space-y-1 text-gray-300">
@@ -68,7 +68,7 @@ export default function TermsAndConditions() {
         </div>
 
         {/* Card 5 */}
-        <div className="rounded-xl border border-gray-700 bg-[#300832] p-6 lg:p-8">
+        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-6 lg:p-8">
           <h3 className="text-xl lg:text-2xl font-bold text-white mb-4">Game Rules</h3>
           <p className="text-gray-200 mb-2 font-semibold">General Guidelines</p>
           <ul className="list-disc list-inside ml-5 mb-3 space-y-1 text-gray-300">
@@ -89,7 +89,7 @@ export default function TermsAndConditions() {
         </div>
 
         {/* Card 6 */}
-        <div className="rounded-xl border border-gray-700 bg-[#300832] p-6 lg:p-8">
+        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-6 lg:p-8">
           <h3 className="text-xl lg:text-2xl font-bold text-white mb-4">Bonuses & Promotions</h3>
           <ul className="list-disc list-inside ml-5 mb-3 space-y-1 text-gray-300">
             <li>All bonuses are governed by specific terms</li>
@@ -102,7 +102,7 @@ export default function TermsAndConditions() {
         </div>
 
         {/* Card 7 */}
-        <div className="rounded-xl border border-gray-700 bg-[#300832] p-6 lg:p-8">
+        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-6 lg:p-8">
           <h3 className="text-xl lg:text-2xl font-bold text-white mb-4">Responsible Gambling</h3>
           <p className="text-gray-200 mb-2">We encourage responsible gaming practices:</p>
           <ul className="list-disc list-inside ml-5 mb-3 space-y-1 text-gray-300">
@@ -116,14 +116,14 @@ export default function TermsAndConditions() {
         </div>
 
         {/* Card 8 */}
-        <div className="rounded-xl border border-gray-700 bg-[#300832] p-6 lg:p-8">
+        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-6 lg:p-8">
           <h3 className="text-xl lg:text-2xl font-bold text-white mb-4">Privacy & Data Protection</h3>
           <p className="text-gray-200 mb-3">Your personal data is handled according to our Privacy Policy, which is part of these Terms.</p>
           <p className="text-gray-200">By using our services, you consent to the collection and processing of your personal information as described in our Privacy Policy and as required by the UK Gambling Commission.</p>
         </div>
 
         {/* Card 9 */}
-        <div className="rounded-xl border border-gray-700 bg-[#300832] p-6 lg:p-8">
+        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-6 lg:p-8">
           <h3 className="text-xl lg:text-2xl font-bold text-white mb-4">Liability Limitations</h3>
           <ul className="list-disc list-inside ml-5 mb-3 space-y-1 text-gray-300">
             <li>No warranties, express or implied, are provided</li>
@@ -135,7 +135,7 @@ export default function TermsAndConditions() {
         </div>
 
         {/* Card 10 */}
-        <div className="rounded-xl border border-gray-700 bg-[#300832] p-6 lg:p-8">
+        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-6 lg:p-8">
           <h3 className="text-xl lg:text-2xl font-bold text-white mb-4">Account Closure</h3>
           <ul className="list-disc list-inside ml-5 mb-3 space-y-1 text-gray-300">
             <li>Violation of Terms or policies</li>
@@ -147,13 +147,13 @@ export default function TermsAndConditions() {
         </div>
 
         {/* Card 11 */}
-        <div className="rounded-xl border border-gray-700 bg-[#300832] p-6 lg:p-8">
+        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-6 lg:p-8">
           <h3 className="text-xl lg:text-2xl font-bold text-white mb-4">Governing Law</h3>
           <p className="text-gray-200">These Terms are governed by the laws of England and Wales. Disputes will be resolved exclusively in courts of England and Wales.</p>
         </div>
 
         {/* Card 12 */}
-        <div className="rounded-xl border border-gray-700 bg-[#300832] p-6 lg:p-8">
+        <div className="rounded-xl border border-[#FFD700] bg-[#054205] p-6 lg:p-8">
           <h3 className="text-xl lg:text-2xl font-bold text-white mb-4">Updates to Terms</h3>
           <p className="text-gray-200 mb-2">We may change these Terms at any time. Changes become effective when posted on our website. Continued use of our services indicates acceptance of the updated Terms.</p>
           <p className="text-gray-200">Important changes will be communicated via email or website notices.</p>

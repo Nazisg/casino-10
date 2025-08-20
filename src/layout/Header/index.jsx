@@ -15,15 +15,15 @@ export default function Header() {
   return (
     <>
       {/* HEADER */}
-      <header className="fixed top-0 left-0 w-full bg-[#260126] z-50 shadow-lg">
-        <nav className="relative max-w-7xl mx-auto flex items-center justify-between py-4 px-6">
+      <header className="fixed top-0 left-0 w-full bg-[#054205] z-50 shadow-lg">
+        <nav className="relative max-w-7xl mx-auto flex items-center justify-between py-2 px-4">
           {/* Logo */}
           <Link
             href="/"
             className="text-xl font-bold text-white cursor-pointer flex gap-2 items-center"
           >
-            <img src="/icons/casino-logo.webp" alt="logo" className="w-8" />
-            <h2 className="glow-text">CASINO</h2>
+            <img src="/icons/casino-logo.webp" alt="logo" className="lg:w-25 w-15" />
+       
           </Link>
 
           {/* Desktop Nav */}
@@ -51,7 +51,7 @@ export default function Header() {
 
       {/* SIDE MENU */}
       <div
-        className={`fixed z-40 top-0 right-0 h-full w-64 bg-[#260126] text-white p-6 transform transition-transform duration-300 shadow-lg ${
+        className={`fixed z-40 top-0 right-0 h-full w-64 bg-[#054205] text-white p-6 transform transition-transform duration-300 shadow-lg ${
           open ? "translate-x-0" : "translate-x-full"
         }`}
       >

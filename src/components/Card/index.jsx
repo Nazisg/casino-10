@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Card({ name, icon, rating, minDeposit, methods, bonus, link }) {
     return (
-        <div className="w-full bg-[#300832] justify-between border border-[#FFD700] rounded-[12px] xl:p-8 p-4 flex flex-col gap-5 transform hover:scale-105 transition-all duration-300 relative overflow-hidden">
+        <div className="w-full justify-between bg-[#111D0E]/30 border border-[#34611C]/60 rounded-[12px] xl:p-8 p-4 flex flex-col gap-5 transform hover:scale-105 transition-all duration-300 relative overflow-hidden">
             {/* Card Icon (Logo Link) */}
             <div className=" flex items-center justify-center">
                 <Link href={link} target="_blank" rel="noopener noreferrer">

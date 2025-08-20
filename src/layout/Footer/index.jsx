@@ -10,8 +10,8 @@ export default function Footer() {
           <div className="col-span-1 flex flex-col lg:flex-row justify-between items-start lg:items-center gap-5 lg:gap-10">
             {/* Brand Info */}
             <div className="max-w-lg">
-              <div className="font-bold items-center flex gap-2 mb-2"><img src="/icons/casino-logo.webp" alt="logo" className="w-8" />
-                <h2 className="glow-text text-[20px]">CASINO</h2></div>
+              <div className="font-bold items-center flex gap-2 mb-2"><img src="/icons/casino-logo.webp" alt="logo" className="lg:w-20 w-15" />
+             </div>
               <p className="text-[14px] text-gray-400 text-sm">
                 Your premier destination for online casino entertainment. Play responsibly.</p>
               <p className="text-gray-500 text-xs mt-2">Visit us at: <span className="text-[#dda435]">casino</span></p>
