@@ -43,14 +43,14 @@ body {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #005101;
+  background: #FFA500;
   border-radius: 10px;
-  border: 1px solid #005101;
+  border: 1px solid #FFA500;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #016403;
+  background: #d68b00;
   transition-duration: 0.3s;
 }
 
